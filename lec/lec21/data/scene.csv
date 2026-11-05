@@ -1,0 +1,8 @@
+id,biome,city,visitors,created_at
+1,desert,Las Vegas,100,2021-01-01
+2,ocean,Hawaii,1000,2021-01-02
+3,river,Paris,50,2021-01-05
+4,hotel,Iceland,1,2021-01-07
+5,desert,Austin,25,2021-01-12
+6,hotel,Las Vegas,240,2021-01-15
+7,hotel,Paris,100,2021-01-15
